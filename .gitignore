@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+MODEL
+384*
+*.npz
+my_torch
